@@ -1,4 +1,6 @@
 .devcontainer
 .pytest_cache
 .vscode
+*.code-workspace
+.github
 __pycache__
